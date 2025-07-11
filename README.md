@@ -29,8 +29,8 @@ This project demonstrates a comprehensive simulation platform for blockchain-int
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd blockchain-federated-learning
+   git clone https://github.com/Seid-Com/trustworthy-ai-blockchain.git
+   cd trustworthy-ai-blockchain
    ```
 
 2. **Install dependencies**
@@ -196,9 +196,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @misc{blockchain-federated-learning,
   title={Trustworthy AI: Blockchain-Integrated Federated Learning},
-  author={Your Name},
+  author={seid},
   year={2025},
-  url={https://github.com/your-repo/blockchain-federated-learning}
+  url={https://github.com/Seid-Com/blockchain-federated-learning}
 }
 ```
 
